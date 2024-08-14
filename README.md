@@ -39,6 +39,7 @@ Utilizes Laravel’s built-in authentication with enhanced security features.
 
 ```bash
 composer install
+
 ```bash
 php artisan migrate
 
