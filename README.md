@@ -37,8 +37,9 @@ Utilizes Laravel’s built-in authentication with enhanced security features.
 - Run php artisan migrate to set up the necessary tables.
 - Implement and customize as needed.
 
-```bash
+```javascript
 composer install
+```
 
 ```javascript
 php artisan migrate
