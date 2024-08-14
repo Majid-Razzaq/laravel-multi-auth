@@ -45,3 +45,7 @@ composer install
 php artisan migrate
 ```
 
+```javascript
+php artisan serve
+```
+
